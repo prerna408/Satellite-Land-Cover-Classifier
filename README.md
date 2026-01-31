@@ -17,6 +17,6 @@ This project implements a Deep Learning solution for automated land-cover mappin
 ## Visual Verification
 (Below is a sample of the model correctly identifying diverse terrains from the validation set.)
 
-![Model Predictions](<img width="1132" height="669" alt="image" src="https://github.com/user-attachments/assets/01e8a856-4da1-492d-ae06-38ad3f31f426" />
+![Model Predictions]([<img width="1132" height="669" alt="image" src="https://github.com/user-attachments/assets/01e8a856-4da1-492d-ae06-38ad3f31f426" />](https://github.com/prerna408/Satellite-Land-Cover-Classifier/blob/main/Screenshot%202026-01-31%20223024.png?raw=true)
 )
 
