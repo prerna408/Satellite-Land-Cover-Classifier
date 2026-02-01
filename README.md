@@ -1,4 +1,4 @@
-# Satellite Land-Cover Classification (AI/ML)
+# Satellite Land-Cover Classification 
 
 ## Project Overview
 This project implements a Deep Learning solution for automated land-cover mapping. Using the **EuroSAT (RGB)** dataset, I developed a Computer Vision model that classifies satellite imagery into 10 distinct terrain categories, such as Forest, River, Crops, and Residential areas.
